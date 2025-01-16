@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s8te865gq-java-quarkus-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/s8te865gq-java-quarkus
